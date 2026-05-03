@@ -5,3 +5,15 @@ pydantic-settings
 uuid
 asyncio
 python-multipart
+sqlalchemy
+psycopg2-binary
+alembic
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+google-auth-oauthlib
+google-auth-httplib2
+google-auth
+requests
+python-dotenv
+email-validator
